@@ -1,0 +1,4 @@
+coremltools==7.2; python_version == '3.11'
+ultralytics-thop==2.0.6; python_version == '3.11'
+huggingface-hub==0.24.6; python_version == '3.11'
+git+https://github.com/hsimprovis/ultralytics.git; python_version == '3.11'
